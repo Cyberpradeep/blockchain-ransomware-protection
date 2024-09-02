@@ -17,7 +17,7 @@ This project is a Blockchain-based Ransomware Protection system that uses Ethere
 1. Clone the repository:
 
 bash
-git clone https://github.com/your-username/blockchain-ransomware-protection.git
+git clone https://github.com/Cyberpradeep/blockchain-ransomware-protection.git
 cd blockchain-ransomware-protection
 
 Install Dependencies:
